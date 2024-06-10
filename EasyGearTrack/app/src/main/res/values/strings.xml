@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EasyGearTrack</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_successful">Login successful</string>
+    <string name="login_error">Please enter username and password</string>
+    <string name="add_gear">Add Gear</string>
+
+    <!-- Gear Types -->
+    <string-array name="gear_categories">
+        <item>Tennis</item>
+        <item>Baseball</item>
+        <item>Golf</item>
+        <item>Soccer</item>
+        <item>Basketball</item>
+        <item>Hockey</item>
+        <item>Football</item>
+    </string-array>
+</resources>
+
